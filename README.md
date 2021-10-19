@@ -68,3 +68,4 @@ Request Payload :
 1. Import Project as Gradle Project in Eclipse
 2. Right Click on AssessmentApplication.java class and Run as 'Java Application'
 3. Test out APIs locally on Postman.
+4. Database Configurations are already done as it is hosted on Amazon RDS Server
