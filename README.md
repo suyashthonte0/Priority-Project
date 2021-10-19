@@ -62,9 +62,9 @@ Request Payload :
     "satisfactionRating" : "2"
 }
 
-###########################################################################################################
+////////////////////////////////////////////////////////////////////////////////////////////////////
 
 **Steps to run the project**
 1. Import Project as Gradle Project in Eclipse
 2. Right Click on AssessmentApplication.java class and Run as 'Java Application'
-3. Test out APIs locally on Postman
+3. Test out APIs locally on Postman.
