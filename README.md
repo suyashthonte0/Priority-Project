@@ -36,7 +36,7 @@ Submission:
 
 **Following are the REST APIs implemented for above Project.**
 
-**API for adding new life_area by admin into the DB.**
+API for adding new life_area by admin into the DB.
 API Endpoint : localhost:8080/api/priority/lifearea/add
 Method Type : POST
 Request Payload : 
@@ -45,13 +45,13 @@ Request Payload :
     "createdBy" : "1"
 }
 
-**API for getting list of all priority areas from DB.**
+API for getting list of all priority areas from DB.
 API Endpoint : localhost:8080/api/priority/lifearea/list
 Method Type : GET
 Request Payload : 
 -
 
-**API for insertion of ratings for Priority along with Satisfaction for respective area and user.**
+API for insertion of ratings for Priority along with Satisfaction for respective area and user.
 API Endpoint : localhost:8080/api/priority/rating/add
 Method Type : POST
 Request Payload : 
